@@ -1,11 +1,11 @@
 # Site settings
 author: Tyler Firth
-title: 
+title: I speak Pug
 header-img: img/home-bg.png
 email: tyfirth@gmail.com
 copyright_name: Tyler Firth
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Interpretations of coding for pugs
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  tyfirth
